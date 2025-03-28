@@ -1,0 +1,13 @@
+requests
+FastAPI
+pyYAML
+joblib
+types-PyYAML
+pandas
+ensure
+defusedxml
+uvicorn
+python-box
+setuptools
+
+-e .

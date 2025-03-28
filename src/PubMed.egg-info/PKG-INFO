@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: PubMed
+Version: 0.0.0
+Summary: A tool to filter PubMed papers for authors affiliated with pharmaceutical or biotech companies.
+Home-page: https://github.com/sawan848/pubmed
+Author: Sawan Kumar
+Author-email: ksawan802@gmail.com
+Project-URL: Bug Tracker, https://github.com/sawan848/pubmed/issues
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
